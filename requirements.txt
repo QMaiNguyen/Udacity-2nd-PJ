@@ -5,4 +5,7 @@ SQLAlchemy
 scikit-learn
 joblib
 nltk
+plotly
+regex
+Flask
 
